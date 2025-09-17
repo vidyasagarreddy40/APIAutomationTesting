@@ -12,7 +12,7 @@ public class TestDataBuilder{
         AddPlace addPlace = new AddPlace();
         addPlace.setAccuracy(50);
         addPlace.setName(name);
-        addPlace.setPhone_number("91 9087843322");
+        addPlace.setPhone_number("9087843322");
         addPlace.setAddress(address);
         addPlace.setWebsite("https://sagar.com");
         addPlace.setLanguage(language);
